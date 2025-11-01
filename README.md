@@ -1,10 +1,11 @@
-🚴‍♂️ MYBIKE
+##🚴‍♂️ MYBIKE
 
-📅 Version: September 2025
+##📅 Version: September 2025
 
 MYBIKE is a modern and responsive landing page dedicated to bicycles — combining clean design, semantic HTML, and modular SCSS for easy scalability and maintenance.
 
-🛠 Tech Stack
+##🛠 Tech Stack
+
 
 HTML5 — semantic and accessible structure
 
@@ -14,7 +15,7 @@ Flexbox / Grid — modern and flexible layout system
 
 Responsive Design — fully optimized for all screen sizes and devices
 
-💡 Features
+##💡 Features
 
 🚲 Clean, minimalistic design focused on user experience
 
@@ -24,7 +25,7 @@ Responsive Design — fully optimized for all screen sizes and devices
 
 🎨 Consistent visual style with reusable components and variables
 
-🌐 Live Demo
+##🌐 Live Demo
 
 👉 [View MYBIKE online](https://bohdan-diatliuk.github.io/layout_landing-page/).
 
