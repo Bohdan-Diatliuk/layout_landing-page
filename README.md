@@ -26,5 +26,5 @@ Responsive Design — fully optimized for all screen sizes and devices
 
 ## 🌐 Live Demo
 
-👉 [View MYBIKE online](https://bohdan-diatliuk.github.io/layout_landing-page/).
+👉 [View MYBIKE online](https://bohdan-diatliuk.github.io/mybike_landing-page/).
 
